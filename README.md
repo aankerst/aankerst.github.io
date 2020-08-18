@@ -1,4 +1,4 @@
-## :point_right:Rezepte
+## 👉Rezepte
 
 | Bild | Name             | Zubereitungszeit | Gesamtdauer |
 |------|------------------|------------------|-------------|
