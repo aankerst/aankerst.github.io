@@ -1,6 +1,10 @@
-## Contents
+## Rezepte
 
-- recipies
+| Bild | Name             | Zubereitungszeit | Gesamtdauer |
+|------|------------------|------------------|-------------|
+|      | Pizza Margaritha | 10 Min           | 35 Min      |
+|      |                  |                  |             |
+|      |                  |                  |             |
 
 <!-- ## Welcome to GitHub Pages
 
