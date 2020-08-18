@@ -1,8 +1,8 @@
-## Rezepte
+## :point_right:Rezepte
 
 | Bild | Name             | Zubereitungszeit | Gesamtdauer |
 |------|------------------|------------------|-------------|
-|      | Pizza Margaritha | 10 Min           | 35 Min      |
+|   ![Pizza Margaritha](pizza-margherita.jpg)   | Pizza Margaritha | 10 Min           | 35 Min      |
 |      |                  |                  |             |
 |      |                  |                  |             |
 
